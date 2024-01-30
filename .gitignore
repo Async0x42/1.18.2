@@ -1,0 +1,11 @@
+
+natives/
+.minecraft/XaeroWorldMap/
+.minecraft/mods/.index/
+.minecraft/logs/
+.minecraft/servers.dat_old
+.minecraft/XaeroWaypoints/
+.minecraft/XaeroWaypoints_BACKUP*
+.minecraft/modernfix/
+.minecraft/saves/
+.minecraft/crash-reports/
