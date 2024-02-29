@@ -9,3 +9,5 @@ natives/
 .minecraft/modernfix/
 .minecraft/saves/
 .minecraft/crash-reports/
+
+.minecraft/essential/
